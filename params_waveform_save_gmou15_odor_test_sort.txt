@@ -1,0 +1,1 @@
+-mouse gmou15 -fil gmou15_2021-07-26_17-11-53_odor -base_path /n/groups/datta/guitchounts/data/gmou15/gmou15_2021-07-26_17-11-53_odor/ 

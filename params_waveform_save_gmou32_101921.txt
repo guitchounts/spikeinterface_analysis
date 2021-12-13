@@ -1,0 +1,7 @@
+-mouse gmou32 -fil gmou32_2021-10-06_12-11-57_odor -base_path /n/groups/datta/guitchounts/data/gmou32/gmou32_2021-10-06_12-11-57_odor/ 
+-mouse gmou32 -fil gmou32_2021-10-05_13-06-18_odor -base_path /n/groups/datta/guitchounts/data/gmou32/gmou32_2021-10-05_13-06-18_odor/ 
+-mouse gmou32 -fil gmou32_2021-10-01_13-27-21_bucket -base_path /n/groups/datta/guitchounts/data/gmou32/gmou32_2021-10-01_13-27-21_bucket/ 
+-mouse gmou32 -fil gmou32_2021-10-07_11-05-05_bucket -base_path /n/groups/datta/guitchounts/data/gmou32/gmou32_2021-10-07_11-05-05_bucket/ 
+-mouse gmou32 -fil gmou32_2021-10-07_12-30-05_odor -base_path /n/groups/datta/guitchounts/data/gmou32/gmou32_2021-10-07_12-30-05_odor/ 
+-mouse gmou32 -fil gmou32_2021-10-01_10-09-52_odor -base_path /n/groups/datta/guitchounts/data/gmou32/gmou32_2021-10-01_10-09-52_odor/ 
+-mouse gmou32 -fil gmou32_2021-10-06_14-11-01_bucket -base_path /n/groups/datta/guitchounts/data/gmou32/gmou32_2021-10-06_14-11-01_bucket/ 

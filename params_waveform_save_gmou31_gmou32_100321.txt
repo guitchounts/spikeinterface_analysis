@@ -1,0 +1,4 @@
+-mouse gmou31 -fil gmou31_2021-10-01_17-12-03_bucket -base_path /n/groups/datta/guitchounts/data/gmou31/gmou31_2021-10-01_17-12-03_bucket/ 
+-mouse gmou31 -fil gmou31_2021-10-01_14-18-30_odor -base_path /n/groups/datta/guitchounts/data/gmou31/gmou31_2021-10-01_14-18-30_odor/ 
+-mouse gmou32 -fil gmou32_2021-10-01_13-27-21_bucket -base_path /n/groups/datta/guitchounts/data/gmou32/gmou32_2021-10-01_13-27-21_bucket/ 
+-mouse gmou32 -fil gmou32_2021-10-01_10-09-52_odor -base_path /n/groups/datta/guitchounts/data/gmou32/gmou32_2021-10-01_10-09-52_odor/ 
