@@ -23,7 +23,7 @@ if not os.path.exists(logs_path):
 
 expt = settings.expt
 
-print('testing!')
+print('testing?')
 
 
 #mice = ['gmou03','gmou04','gmou05']
